@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(counter_app LANGUAGES CXX)
+project(payflow LANGUAGES CXX)
 
-set(BINARY_NAME "counter_app")
+set(BINARY_NAME "payflow")
 
 cmake_policy(SET CMP0063 NEW)
 
