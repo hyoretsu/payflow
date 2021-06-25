@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "537740347492",
+    "project_id": "hyoretsu-payflow",
+    "storage_bucket": "hyoretsu-payflow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537740347492:android:469bd43a548188f640f771",
+        "android_client_info": {
+          "package_name": "com.hyoretsu.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537740347492-eesv7u1fno7em7q2sh85a3ippcb64vvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hyoretsu.payflow",
+            "certificate_hash": "5c9a48366edbbdc0165199cf034c19c539feae24"
+          }
+        },
+        {
+          "client_id": "537740347492-n7ftav0l7q0rgefiasl1bj77lv2fn01v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCklIUG0w4Rn2VB7FEqrFNEj1gcTNRGBWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537740347492-n7ftav0l7q0rgefiasl1bj77lv2fn01v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
